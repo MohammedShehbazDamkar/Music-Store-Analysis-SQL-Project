@@ -1,4 +1,4 @@
-![Spotify](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png)
+![Spotify](https://cdn2.downdetector.com/static/uploads/c/300/12f48/Spotify_Logo_RGB_Green.png)
 
 # Spotify-SQL-Project
 This project features a collection of SQL queries crafted to extract distinct insights from a simulated Spotify database.
